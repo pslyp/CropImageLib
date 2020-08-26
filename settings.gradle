@@ -1,0 +1,3 @@
+include ':cropimage'
+include ':app'
+rootProject.name = "Crop Image Lib"
